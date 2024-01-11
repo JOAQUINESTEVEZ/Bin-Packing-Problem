@@ -1,4 +1,5 @@
 # Solving Bin Packing Problem Using Approximate Greedy Algorithms
+// Author: Joaquin Estevez Year: 2023
 
 ## Overview
 
